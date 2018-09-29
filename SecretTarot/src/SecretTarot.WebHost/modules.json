@@ -1,0 +1,130 @@
+[
+  {
+    "id": "SecretTarot.Module.ActivityLog",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Catalog",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Cms",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Comments",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Contacts",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Core",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.DinkToPdf",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.EmailSenderSmtp",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Inventory",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Localization",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.News",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Orders",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.PaymentCoD",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.PaymentPaypalExpress",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Payments",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.PaymentStripe",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Pricing",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.ProductComparison",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.ProductRecentlyViewed",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Reviews",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.SampleData",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Search",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Shipments",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Shipping",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.ShippingFree",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.ShippingPrices",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.ShippingTableRate",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.ShoppingCart",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.StorageLocal",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Tax",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.Vendors",
+    "version": "1.0.0"
+  },
+  {
+    "id": "SecretTarot.Module.WishList",
+    "version": "1.0.0"
+  }
+]
